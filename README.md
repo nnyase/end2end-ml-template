@@ -4,7 +4,8 @@ End to End Machine Learning Project with Deployment
 
 #### Set up the github
 - new environment
-- setup.pu
+- setup.py
 - requirements.txt
+- .gitignore
 
 #### Exception handling

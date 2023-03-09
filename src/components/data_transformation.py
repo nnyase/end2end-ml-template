@@ -1,0 +1,1 @@
+# Transformation - all code related to change categorical features to numerical, hot one encoding, label encoding and divide into train, test

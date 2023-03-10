@@ -24,3 +24,7 @@ class CustomException(Exception):
     def __str__(self):
         # Print error message
         return self.error_message
+    
+
+
+error_message_detail(NameError,NameError)
